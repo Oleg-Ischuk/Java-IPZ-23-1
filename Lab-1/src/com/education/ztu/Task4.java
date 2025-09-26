@@ -4,9 +4,9 @@ import java.util.Scanner;
 public class Task4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter First Number : ");
+        System.out.print("Введіть перше число: ");
         int firstNumber = scanner.nextInt();
-        System.out.print("Enter Second Number : ");
+        System.out.print("Введіть перше дурге : ");
         int secondNumber = scanner.nextInt();
         int gcd = findGCD(firstNumber,secondNumber);
         System.out.println("Найбільший спільний дільник чисел " + firstNumber + " і " + secondNumber + " = " + gcd);
