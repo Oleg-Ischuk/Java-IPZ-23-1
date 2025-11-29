@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teams>
+    <team id="1" type="schoolar">
+        <name>Dragon</name>
+        <rating>1200</rating>
+        <wins>5</wins>
+        <participants>
+            <participant>
+                <name>Ivan</name>
+                <age>13</age>
+                <role>Captain</role>
+            </participant>
+            <participant>
+                <name>Mariya</name>
+                <age>15</age>
+                <role>Player</role>
+            </participant>
+        </participants>
+    </team>
+
+    <team id="2" type="schoolar">
+        <name>Rozumnyky</name>
+        <rating>1150</rating>
+        <wins>3</wins>
+        <participants>
+            <participant>
+                <name>Sergey</name>
+                <age>12</age>
+                <role>Captain</role>
+            </participant>
+            <participant>
+                <name>Olga</name>
+                <age>14</age>
+                <role>Player</role>
+            </participant>
+        </participants>
+    </team>
+
+    <team id="3" type="student">
+        <name>Vpered</name>
+        <rating>1350</rating>
+        <wins>8</wins>
+        <participants>
+            <participant>
+                <name>Mykola</name>
+                <age>20</age>
+                <role>Captain</role>
+            </participant>
+            <participant>
+                <name>Viktoria</name>
+                <age>21</age>
+                <role>Player</role>
+            </participant>
+        </participants>
+    </team>
+
+    <team id="4" type="employee">
+        <name>Robotyagi</name>
+        <rating>1450</rating>
+        <wins>12</wins>
+        <participants>
+            <participant>
+                <name>Andriy</name>
+                <age>28</age>
+                <role>Captain</role>
+            </participant>
+            <participant>
+                <name>Oksana</name>
+                <age>25</age>
+                <role>Player</role>
+            </participant>
+        </participants>
+    </team>
+</teams>

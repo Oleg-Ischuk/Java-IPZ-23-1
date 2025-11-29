@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"com.education.ztu"},{"l":"com.education.ztu.game"}];updateSearchResults();
